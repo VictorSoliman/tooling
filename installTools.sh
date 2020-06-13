@@ -1,3 +1,6 @@
 #!/bin/bash -e
-./brew.sh
+echo "########### XCode command line tool   ###########"
 ./xcodeTool.sh
+echo "###########         Homebrew          ###########"
+./brew.sh
+
